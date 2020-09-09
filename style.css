@@ -1,0 +1,29 @@
+#clear{
+    width: 130px;
+}
+
+.formstyle{
+    width:130px;
+    height:296px;
+    margin:auto;
+    border:2px solid black;
+}
+
+input{
+    width:40px;
+    background-color: aqua;
+    color:white;
+}
+input:hover{
+    cursor: pointer;
+    background-color: rgba(12, 10, 10, 0.897);
+}
+input:active{
+    background-color: blueviolet;
+}
+
+#answerstyle{
+    width: 122px;
+    background-color: burlywood;
+    cursor:inherit;
+}
